@@ -1,0 +1,29 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f0f0f0;
+}
+
+.my-list {
+    width: 500px;
+    background-color: #f7f381;
+    padding: 8px 24px;
+    border: 1px solid #f7f381;
+    box-shadow: 0 0 10px 2px #333333;
+    font-size: 30px;
+}
+
+.my-list h1 {
+    text-align: center;
+}
+
+.date {
+    text-align: center;
+}
+
+.my-list ol {
+    margin: 12px;
+}
